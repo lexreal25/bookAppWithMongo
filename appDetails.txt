@@ -1,0 +1,17 @@
+/* REST API to create, update, delete and view book with the following details
+    -Book Title
+    -Author
+    -Description
+
+    1. Create Book: title, author name, description
+    2. View Book
+    3. Update Book: title, author name, description
+    4. Search Book 
+    5. Delete Book
+
+    Book Details
+    1. title
+    2. author name
+    3. description
+    4. year publication
+*/
